@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PruebaAndroid_JohannPolania</string>
+    <string name="CineAdictos">CineAdictos</string>
+    <string name="Nombre">Nombre</string>
+    <string name="FechaNacimiento">Fecha de nacimiento</string>
+    <string name="Correo">Correo</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Bienvenido">Bienvenido a CineAdictos</string>
+    <string name="VerCartelera">Ver cartelera </string>
+    <string name="VerVistas">Ver mis películas vistas </string>
+</resources>
